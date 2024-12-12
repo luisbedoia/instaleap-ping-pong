@@ -99,7 +99,7 @@ try:
             except Exception as err:
                 print(f"Error al escribir dirección: {err}")
 
-        delay(30)
+        delay(35)
 
 except KeyboardInterrupt:
     print("Proceso interrumpido.")
